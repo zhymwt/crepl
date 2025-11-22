@@ -1,6 +1,6 @@
 # Crepl
 
-A simple application that allows you dynamically call C functions from DLL using [libffi](github.com/libffi/libffi). Developed recreationally to test out libffi.
+A simple application that allows you to dynamically call C functions from a DLL using [libffi](https://github.com/libffi/libffi). Developed recreationally to test out libffi.
 
 ## Quick Start
 

